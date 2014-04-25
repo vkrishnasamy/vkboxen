@@ -1,4 +1,9 @@
-/usr/local/bin/brew list | (
+
+  
+  class people::vkrishnasamy {
+    {
+      
+  /usr/local/bin/brew list | (
       echo "package { ["
       while read line; do
           echo "           '$line',"
@@ -7,3 +12,5 @@
       echo "          ensure => 'present',"
       echo "}"
   )
+  }
+}
