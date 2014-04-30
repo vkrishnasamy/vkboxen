@@ -51,8 +51,7 @@ github "xquartz",        "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
-github "alfred",         "1.1.7"
-github "eclipse",        "2.2.0"
+
 github "evernote",       "2.0.4"
 github "dropbox",        "1.2.0"
 github "osx",            "2.2.2"
