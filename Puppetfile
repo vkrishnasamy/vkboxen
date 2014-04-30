@@ -56,5 +56,6 @@ github "evernote",       "2.0.4"
 github "dropbox",        "1.2.0"
 github "osx",            "2.2.2"
 github "sourcetree",     "1.0.0"
+github "iterm2",         "1.0.6"
 github "sublime_text_3", "1.0.1", :repo => "jozefizso/puppet-sublime_text_3"
 
